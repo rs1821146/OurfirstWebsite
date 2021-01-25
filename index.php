@@ -24,7 +24,7 @@ body{
 </head>
 <div class="navbar">
   <p align="right">
-    <font face='Inconsolata' size='5' color="black">
+    <font size='5' color="black">
            <a href="#"> HOME </a>&nbsp;&nbsp;&nbsp;&nbsp;
            <a href="#"> ABOUT </a>&nbsp;&nbsp;&nbsp;
            <a href="#"> SUPPORT </a>&nbsp;&nbsp;&nbsp;
